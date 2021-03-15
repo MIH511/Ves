@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string-array name="Spinner_items">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string name="app_name">Ves</string>
+    <string name="orderprocess">order process</string>
+    <string name="recived">recived</string>
+    <string name="ironing">ironing</string>
+    <string name="delivering">delivering</string>
+    <string name="deliverd">deliverd</string>
+    <string name="Email_or_Phone_number">الهاتف / البريد الإلكتروني</string>
+    <string name="PASSWORD">كلمه السر</string>
+    <string name="sign_in">تسجيل الدخول</string>
+    <string name="FULLNAME">الاسم الكامل</string>
+    <string name="phone_number">رقم المحمول</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="birth_date">تاريخ الميلاد</string>
+    <string name="gender">نوع</string>
+    <string name="address">العنوان</string>
+    <string name="sign_up">إنشاء حساب</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="T_SHIRT">T SHIRT</string>
+    <string name="num">0</string>
+    <string name="price">السعر</string>
+    <string name="items">منتجات</string>
+    <string name="amount">الكميه</string>
+    <string name="total">إجمالي</string>
+    <string name="price_egp">12 ج.م</string>
+    <string name="PROMO_CODE">بروموكود</string>
+    <string name="ACTIVE">أضف</string>
+    <string name="order_now">أطلب الان</string>
+    <string name="Men">رجالي</string>
+    <string name="Women">نسائي</string>
+    <string name="Kids">أطفال</string>
+    <string name="confirm">تأكيد</string>
+    <string name="receipt">receipt</string>
+    <string name="add_to_basket">أضف الي العربه</string>
+    <string name="product_name">product name</string>
+    <string name="HOME">الرئيسية</string>
+    <string name="BASKET">سلة</string>
+    <string name="MY_ORDERS">طلباتي</string>
+    <string name="profile">الملف الشخصي</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="process">سير العملية</string>
+    <string name="communicate">communicate</string>
+    <string name="contact_us">contact us</string>
+    <string name="about_us">معلومات عنا</string>
+    <string name="person_name">اسم المستخدم</string>
+    <string name="location">الموقع</string>
+    <string name="edit">تعديل</string>
+    <string name="Total_EGP">Total 20 EGP</string>
+    <string name="date_my_order">12/9/2020</string>
+    <string name="Language">english</string>
+    <string name="UserName">اسم المستخدم</string>
+    <string name="addProfilePicture">أضف صورة شخصيه</string>
+    <string name="EditProfile">تعديل الحساب</string>
+    <string name="save">أحفظ</string>
+    <string name="money">ج.م</string>
+    <string name="laundry">laundry</string>
+    <string name="laundryAndCleaning">غسيل و مكوه</string>
+    <string name="cleaning">cleaning</string>
+    <string name="Error_message">تعذر الأتصال بالأنترنت</string>
+    <string name="Retry">أعادة المحاوله</string>
+</resources>

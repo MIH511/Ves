@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/profile"
+        android:title="@string/profile"
+        android:enabled="true"
+        android:checkable="true"
+        />
+
+    <item
+        android:id="@+id/logout"
+        android:title="@string/logout"
+        android:enabled="true"
+        android:checkable="true"
+        />
+    <item
+        android:id="@+id/process"
+        android:title="@string/process"
+        android:enabled="true"
+        android:checkable="true"
+        />
+
+    <item
+        android:id="@+id/about"
+        android:title="@string/about_us"
+        android:enabled="true"
+        android:checkable="true"/>
+
+
+</menu>

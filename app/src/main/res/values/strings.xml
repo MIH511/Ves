@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Ves</string>
+    <string-array name="Spinner_items">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="Spinner_address_items">
+        <item>--Choose your city--</item>
+        <item>El-Shikh Zayed</item>
+        <item>Other</item>
+    </string-array>
+    <string name="drawerOpen" translatable="false">drawerOpen</string>
+    <string name="drawerClose" translatable="false">drawerClose</string>
+    <string name="orderprocess">order process</string>
+    <string name="recived">received</string>
+    <string name="ironing">ironing</string>
+    <string name="delivering">delivering</string>
+    <string name="deliverd">deliverd</string>
+    <string name="Email_or_Phone_number">Email or Phone number</string>
+    <string name="PASSWORD">PASSWORD</string>
+    <string name="sign_in">sign in</string>
+    <string name="FULLNAME">FULLNAME</string>
+    <string name="phone_number">phone number</string>
+    <string name="email">email</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="birth_date">birth date</string>
+    <string name="gender">gender</string>
+    <string name="address">address</string>
+    <string name="sign_up">sign up</string>
+    <string name="login">login</string>
+    <string name="T_SHIRT">T SHIRT</string>
+    <string name="num">0</string>
+    <string name="price">price</string>
+    <string name="items">items</string>
+    <string name="amount">amount</string>
+    <string name="total">total</string>
+    <string name="price_egp">12 egp</string>
+    <string name="PROMO_CODE">PROMO CODE</string>
+    <string name="ACTIVE">ACTIVE</string>
+    <string name="order_now">order now</string>
+    <string name="Men">Men</string>
+    <string name="Women">Women</string>
+    <string name="Kids">Kids</string>
+    <string name="confirm">confirm</string>
+    <string name="receipt">receipt</string>
+    <string name="add_to_basket">add to basket</string>
+    <string name="product_name">product name</string>
+    <string name="HOME">HOME</string>
+    <string name="BASKET">BASKET</string>
+    <string name="MY_ORDERS">MY ORDERS</string>
+    <string name="profile">profile</string>
+    <string name="logout">logout</string>
+    <string name="process">process</string>
+    <string name="communicate">communicate</string>
+    <string name="contact_us">contact us</string>
+    <string name="about_us">about us</string>
+    <string name="person_name">person name</string>
+    <string name="location">location</string>
+    <string name="edit">edit</string>
+    <string name="Total_EGP">Total 20 EGP</string>
+    <string name="date_my_order">12/9/2020</string>
+    <string name="Language">العربيه</string>
+    <string name="UserName">User Name</string>
+    <string name="addProfilePicture">add profile picture</string>
+    <string name="EditProfile">edit profile</string>
+    <string name="save">save</string>
+    <string name="money">EGP</string>
+    <string name="laundry">laundry</string>
+    <string name="laundryAndCleaning">laundry&amp;cleaning</string>
+    <string name="cleaning">cleaning</string>
+    <string name="Retry">Retry</string>
+    <string name="Error_message">internet Connection Faild</string>
+
+</resources>

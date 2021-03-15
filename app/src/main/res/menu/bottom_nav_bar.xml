@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="@string/HOME"
+        android:icon="@drawable/home"
+        android:enabled="true"
+        android:checked="true"
+        android:checkable="true"/>
+    <item
+        android:id="@+id/basket"
+        android:title="@string/BASKET"
+        android:icon="@drawable/basket"
+        android:enabled="true"
+        android:checkable="true"/>
+    <item
+        android:id="@+id/order"
+        android:title="@string/MY_ORDERS"
+        android:icon="@drawable/myorders"
+        android:enabled="true"
+        android:checkable="true"/>
+</menu>
